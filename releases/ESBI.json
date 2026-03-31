@@ -1,5 +1,13 @@
 {
   "schema_version": 1,
   "versions": [
+    {
+      "version": "1.0.0",
+      "game_version": ">=1.0.0",
+      "date": "2026-03-31",
+      "changelog": "First release of Spanish maps with: Madrid, Barcelona, Valencia, Bilbao.",
+      "download": "https://github.com/Maximilian284/subwaybuilder-es-maps/releases/download/1.0.0/ESBI.zip",
+      "sha256": "d231f573e481c8ea427e707ba3c18b08fd90183a7680616ae60a847f5eb48c4e"
+    }
   ]
 }
