@@ -2,6 +2,14 @@
   "schema_version": 1,
   "versions": [
     {
+      "version": "1.0.1",
+      "game_version": ">=1.0.0",
+      "date": "2026-03-31",
+      "changelog": "Fixed cities' descriptions.",
+      "download": "https://github.com/Maximilian284/subwaybuilder-es-maps/releases/download/1.0.1/ESBC.zip",
+      "sha256": "2b9becb26b5b7115f44a8ca745b58e6fccce9952b18faa3832442c34ad7ea140"
+    },
+    {
       "version": "1.0.0",
       "game_version": ">=1.0.0",
       "date": "2026-03-31",

@@ -1,7 +1,7 @@
 {
-  "version": "1.0.0",
-  "title": "Release 1.0.0",
-  "intro": "First release of Spanish maps!",
+  "version": "1.0.1",
+  "title": "Release 1.0.1",
+  "intro": "Fixed cities' descriptions.",
   "gameVersion": ">=1.0.0",
   "releaseCities": ["ESMD", "ESBC", "ESVA", "ESBI"],
   "updatedCities": ["ESMD", "ESBC", "ESVA", "ESBI"],
@@ -9,28 +9,28 @@
     {
       "name": "Madrid",
       "code": "ESMD",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "population": 65646966,
       "notes": "First release of Madrid map"
     },
     {
       "name": "Barcelona",
       "code": "ESBC",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "population": 5690989,
       "notes": "First release of Barcelona map"
     },
     {
       "name": "Valencia",
       "code": "ESVA",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "population": 2632033,
       "notes": "First release of Valencia map"
     },
     {
       "name": "Bilbao",
       "code": "ESBI",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "population": 1271430,
       "notes": "First release of Bilbao map"
     }
@@ -38,5 +38,5 @@
   "changelog": [
     "Initial release of Spanish maps with: Madrid, Barcelona, Valencia, Bilbao."
   ],
-  "mapChangelog": "First release of Spanish maps with: Madrid, Barcelona, Valencia, Bilbao."
+  "mapChangelog": "Fixed cities' descriptions."
 }
