@@ -2,6 +2,14 @@
   "schema_version": 1,
   "versions": [
     {
+      "version": "1.0.2",
+      "game_version": ">=1.0.0",
+      "date": "2026-04-10",
+      "changelog": "Fixed version mismatch.",
+      "download": "https://github.com/Maximilian284/subwaybuilder-es-maps/releases/download/1.0.2/ESMD.zip",
+      "sha256": "4a070cbfdec6d9a2f82b341e8427ed28337f2cb578a6eda7740b8c79935205ac"
+    },
+    {
       "version": "1.0.1",
       "game_version": ">=1.0.0",
       "date": "2026-03-31",
