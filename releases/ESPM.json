@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "versions": [
+    {
+      "version": "1.0.0",
+      "game_version": ">=1.0.0",
+      "date": "2026-07-24",
+      "changelog": "Added new map for Palma de Mallorca.",
+      "download": "https://github.com/Maximilian284/subwaybuilder-es-maps/releases/download/1.1.0/ESPM.zip",
+      "sha256": "bfcf3250ad3e084043fa88255c8bbaf4807c8181b023591d6152c378bbaa1cb9"
+    }
+  ]
+}

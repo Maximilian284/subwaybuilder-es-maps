@@ -2,6 +2,14 @@
   "schema_version": 1,
   "versions": [
     {
+      "version": "1.1.0",
+      "game_version": ">=1.0.0",
+      "date": "2026-07-24",
+      "changelog": "Added new building index file and expanded map coverage.",
+      "download": "https://github.com/Maximilian284/subwaybuilder-es-maps/releases/download/1.1.0/ESBC.zip",
+      "sha256": "40ff254cee68c23221e464d5ced93c119d5671e5906ea7f9cb05823c1f9f3027"
+    },
+    {
       "version": "1.0.2",
       "game_version": ">=1.0.0",
       "date": "2026-04-10",

@@ -1,42 +1,54 @@
 {
-  "version": "1.0.2",
-  "title": "Release 1.0.2",
-  "intro": "Fixed version mismatch.",
+  "version": "1.1.0",
+  "title": "Release 1.1.0",
+  "intro": "New Map and City Updates",
   "gameVersion": ">=1.0.0",
-  "releaseCities": ["ESMD", "ESBC", "ESVA", "ESBI"],
-  "updatedCities": ["ESMD", "ESBC", "ESVA", "ESBI" ],
+  "releaseCities": ["ESMD", "ESBC", "ESVA", "ESBI", "ESPM"],
+  "updatedCities": ["ESMD", "ESBC", "ESVA", "ESBI", "ESPM"],
   "cities": [
     {
       "name": "Madrid",
       "code": "ESMD",
-      "version": "1.0.2",
+      "version": "1.1.0",
       "population": 65646966,
-      "notes": "First release of Madrid map"
+      "notes": "Added new building index file and expanded map coverage.",
+      "mapChangelog": "Added new building index file and expanded map coverage."
     },
     {
       "name": "Barcelona",
       "code": "ESBC",
-      "version": "1.0.2",
+      "version": "1.1.0",
       "population": 5690989,
-      "notes": "First release of Barcelona map"
+      "notes": "Added new building index file and expanded map coverage.",
+      "mapChangelog": "Added new building index file and expanded map coverage."
     },
     {
       "name": "Valencia",
       "code": "ESVA",
-      "version": "1.0.2",
+      "version": "1.1.0",
       "population": 2632033,
-      "notes": "First release of Valencia map"
+      "notes": "Added new building index file and expanded map coverage.",
+      "mapChangelog": "Added new building index file and expanded map coverage."
     },
     {
       "name": "Bilbao",
       "code": "ESBI",
-      "version": "1.0.2",
+      "version": "1.1.0",
       "population": 1271430,
-      "notes": "First release of Bilbao map"
+      "notes": "Added new building index file and expanded map coverage.",
+      "mapChangelog": "Added new building index file and expanded map coverage."
+    },
+    {
+      "name": "Palma de Mallorca",
+      "code": "ESPM",
+      "version": "1.0.0",
+      "population": 899411,
+      "notes": "Added new map for Palma de Mallorca.",
+      "mapChangelog": "Added new map for Palma de Mallorca."
     }
   ],
   "changelog": [
-    "Initial release of Spanish maps with: Madrid, Barcelona, Valencia, Bilbao."
-  ],
-  "mapChangelog": "Fixed version mismatch."
+    "Added new map: Palma de Mallorca (ESPM).",
+    "Updated maps for Madrid (ESMD), Barcelona (ESBC), Valencia (ESVA), and Bilbao (ESBI)."
+  ]
 }
