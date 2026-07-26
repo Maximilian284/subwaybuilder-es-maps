@@ -1,17 +1,18 @@
-## Release 1.1.0
+## Release 1.2.0
 
-New Map and City Updates
+Seville and Alicante
 
 | City | Code | Population | Map Version | Notes |
 |------|------|------------|-------------|-------|
-| Madrid | ESMD | 65646966 | 1.1.0 | Added new building index file and expanded map coverage. |
-| Barcelona | ESBC | 5690989 | 1.1.0 | Added new building index file and expanded map coverage. |
-| Valencia | ESVA | 2632033 | 1.1.0 | Added new building index file and expanded map coverage. |
-| Bilbao | ESBI | 1271430 | 1.1.0 | Added new building index file and expanded map coverage. |
-| Palma de Mallorca | ESPM | 899411 | 1.0.0 | Added new map for Palma de Mallorca. |
+| Madrid | ESMD | 4801093 | 1.1.0 | Already available |
+| Barcelona | ESBC | 4073925 | 1.1.0 | Already available |
+| Valencia | ESVA | 1813405 | 1.1.0 | Already available |
+| Bilbao | ESBI | 804134 | 1.1.0 | Already available |
+| Palma de Mallorca | ESPM | 629588 | 1.0.0 | Already available |
+| Alicante | ESAL | 1386953 | 1.0.0 | New map |
+| Seville | ESSV | 1370173 | 1.0.0 | New map |
 
 ## Changelog
 
-- Added new map: Palma de Mallorca (ESPM).
-- Updated maps for Madrid (ESMD), Barcelona (ESBC), Valencia (ESVA), and Bilbao (ESBI).
+- Added new maps of Alicante and Seville.
 

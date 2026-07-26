@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "versions": [
+    {
+      "version": "1.0.0",
+      "game_version": ">=1.0.0",
+      "date": "2026-07-26",
+      "changelog": "Added new map of Seville.",
+      "download": "https://github.com/Maximilian284/subwaybuilder-es-maps/releases/download/1.2.0/ESSV.zip",
+      "sha256": "984d196b253362ba03b3c55c67fd7e178b31ba33a7a4d3e781b4c66464ccd018"
+    }
+  ]
+}

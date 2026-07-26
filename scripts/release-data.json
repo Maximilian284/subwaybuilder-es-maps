@@ -1,54 +1,64 @@
 {
-  "version": "1.1.0",
-  "title": "Release 1.1.0",
-  "intro": "New Map and City Updates",
+  "version": "1.2.0",
+  "title": "Release 1.2.0",
+  "intro": "Seville and Alicante",
   "gameVersion": ">=1.0.0",
-  "releaseCities": ["ESMD", "ESBC", "ESVA", "ESBI", "ESPM"],
-  "updatedCities": ["ESMD", "ESBC", "ESVA", "ESBI", "ESPM"],
+  "releaseCities": ["ESMD", "ESBC", "ESVA", "ESBI", "ESPM", "ESSV", "ESAL"],
+  "updatedCities": ["ESSV", "ESAL"],
   "cities": [
     {
       "name": "Madrid",
       "code": "ESMD",
       "version": "1.1.0",
-      "population": 65646966,
-      "notes": "Added new building index file and expanded map coverage.",
-      "mapChangelog": "Added new building index file and expanded map coverage."
+      "population": 4801093,
+      "notes": "Already available"
     },
     {
       "name": "Barcelona",
       "code": "ESBC",
       "version": "1.1.0",
-      "population": 5690989,
-      "notes": "Added new building index file and expanded map coverage.",
-      "mapChangelog": "Added new building index file and expanded map coverage."
+      "population": 4073925,
+      "notes": "Already available"
     },
     {
       "name": "Valencia",
       "code": "ESVA",
       "version": "1.1.0",
-      "population": 2632033,
-      "notes": "Added new building index file and expanded map coverage.",
-      "mapChangelog": "Added new building index file and expanded map coverage."
+      "population": 1813405,
+      "notes": "Already available"
     },
     {
       "name": "Bilbao",
       "code": "ESBI",
       "version": "1.1.0",
-      "population": 1271430,
-      "notes": "Added new building index file and expanded map coverage.",
-      "mapChangelog": "Added new building index file and expanded map coverage."
+      "population": 804134,
+      "notes": "Already available"
     },
     {
       "name": "Palma de Mallorca",
       "code": "ESPM",
       "version": "1.0.0",
-      "population": 899411,
-      "notes": "Added new map for Palma de Mallorca.",
-      "mapChangelog": "Added new map for Palma de Mallorca."
+      "population": 629588,
+      "notes": "Already available"
+    },
+    {
+      "name": "Alicante",
+      "code": "ESAL",
+      "version": "1.0.0",
+      "population": 1386953,
+      "notes": "New map",
+      "mapChangelog": "Added new map of Alicante."
+    },
+    {
+      "name": "Seville",
+      "code": "ESSV",
+      "version": "1.0.0",
+      "population": 1370173,
+      "notes": "New map",
+      "mapChangelog": "Added new map of Seville."
     }
   ],
   "changelog": [
-    "Added new map: Palma de Mallorca (ESPM).",
-    "Updated maps for Madrid (ESMD), Barcelona (ESBC), Valencia (ESVA), and Bilbao (ESBI)."
+    "Added new maps of Alicante and Seville."
   ]
 }
